@@ -1,2 +1,4 @@
 Criando um novo arquivo
 Recuperando; pois havia errado.
+
+Buscando entender!
